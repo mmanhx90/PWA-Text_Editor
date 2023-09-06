@@ -32,9 +32,9 @@
 
   ![ApplicationScreenShot](/images/pwascreenshot.png)
 
-  ![HerokuLink](https://progressivewa-text-editor-3ff4a0f109ee.herokuapp.com/)
+  [HerokuLink](https://progressivewa-text-editor-3ff4a0f109ee.herokuapp.com/)
 
-  ![GitHubRepoLink](https://github.com/mmanhx90/PWA-Text_Editor)
+  [GitHubRepoLink](https://github.com/mmanhx90/PWA-Text_Editor)
 
-  ![GitHub](https://github.com/mmanhx90)
+  [GitHub](https://github.com/mmanhx90)
 
